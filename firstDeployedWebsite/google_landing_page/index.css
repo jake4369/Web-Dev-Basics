@@ -10,6 +10,12 @@ body {
   font-family: "Montserrat", Arial, Helvetica, sans-serif;
 }
 
+h1,
+p {
+  text-align: center;
+  margin-top: 40px;
+}
+
 img {
   width: 30%;
   display: block;

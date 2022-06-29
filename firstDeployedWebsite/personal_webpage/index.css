@@ -43,6 +43,10 @@ img {
   border: 4px solid var(--text);
 }
 
+ul li {
+  margin-bottom: 5px;
+}
+
 a {
   color: var(--text);
 }

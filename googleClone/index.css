@@ -1,19 +1,26 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   font-family: "Montserrat", Arial, Helvetica, sans-serif;
 }
 
-div {
+.main {
   margin-top: 100px;
 }
 
-img {
+.logo {
   display: block;
   width: 300px;
+  margin: 0 auto;
 }
 
-input {
+.search-input {
   display: block;
   width: 400px;
+  margin: 0 auto;
 }
